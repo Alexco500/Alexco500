@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexco500
-- 👀 I’m interested in macOS, alternative operating systems ans oldschool AmigaOS
+- 👀 I’m interested in macOS, alternative operating systems and oldschool AmigaOS
 - 🌱 I’m currently learning Swift and Rust
 
 <!---
